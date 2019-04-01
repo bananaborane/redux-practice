@@ -1,5 +1,5 @@
 {
-  "name": "reduxtodolist",
+  "name": "redux-1-todos",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
